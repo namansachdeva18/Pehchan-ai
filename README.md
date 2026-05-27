@@ -207,6 +207,4 @@ B.Tech Information Technology | Manipal University Jaipur
 
 ---
 
-## 📄 License
 
-This project is open source under the [MIT License](LICENSE).
